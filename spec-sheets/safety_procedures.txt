@@ -1,0 +1,433 @@
+INDUSTRIAL SAFETY PROCEDURES AND PROTOCOLS
+==========================================
+
+Document Control
+----------------
+Document ID: SAFETY-001
+Version: 2.1
+Effective Date: March 1, 2024
+Review Date: March 1, 2025
+Approved By: Safety Committee Chair
+Distribution: All Manufacturing Personnel
+
+GENERAL SAFETY REQUIREMENTS
+============================
+
+Personal Protective Equipment (PPE)
+-----------------------------------
+
+Mandatory PPE for All Personnel:
+- Safety glasses (ANSI Z87.1 compliant) at all times in production areas
+- Steel-toed safety boots (ASTM F2413 rated)
+- Hard hats in designated areas (marked with signage)
+- High-visibility safety vests when working near mobile equipment
+
+Task-Specific PPE:
+- Cut-resistant gloves (ANSI/ISEA cut level A4 minimum) for material handling
+- Chemical-resistant gloves when handling cleaning solvents
+- Hearing protection (NRR 25 dB minimum) in high-noise areas (>85 dB)
+- Respiratory protection when exposure to airborne contaminants is possible
+- Arc flash protective equipment when working on electrical systems
+
+PPE Inspection and Maintenance:
+- Daily inspection of all PPE before use
+- Replace damaged or worn equipment immediately
+- Store PPE in designated areas when not in use
+- Report PPE deficiencies to supervisor immediately
+
+MACHINE SAFETY PROCEDURES
+==========================
+
+Pre-Operation Safety Checks
+---------------------------
+
+Before Starting Any Equipment:
+1. Verify all safety guards are properly installed and secured
+2. Check emergency stop buttons are functional and accessible
+3. Ensure work area is clear of personnel and obstacles
+4. Confirm all tools and materials are properly secured
+5. Review job safety analysis (JSA) for specific task
+6. Verify proper PPE is worn and functional
+
+Lockout/Tagout (LOTO) Procedures
+--------------------------------
+
+When LOTO is Required:
+- Maintenance activities on energized equipment
+- Cleaning inside equipment guards or enclosures
+- Troubleshooting that requires guard removal
+- Any non-routine activities involving potential energy exposure
+
+LOTO Steps:
+1. Notify affected personnel of planned shutdown
+2. Identify all energy sources (electrical, hydraulic, pneumatic, thermal)
+3. Shut down equipment using normal operating procedures
+4. Isolate all energy sources using designated disconnects
+5. Apply personal locks and tags to isolation devices
+6. Verify energy isolation by attempting normal startup
+7. Release any stored energy (capacitors, springs, pressurized systems)
+8. Verify zero energy state before beginning work
+
+LOTO Removal:
+1. Ensure all personnel are clear of equipment
+2. Verify all tools and materials are removed
+3. Reinstall guards and safety devices
+4. Remove locks and tags in reverse order of application
+5. Notify personnel that equipment will be re-energized
+6. Test equipment operation before returning to service
+
+EMERGENCY PROCEDURES
+====================
+
+Emergency Response Team Contacts
+--------------------------------
+- Emergency Services: 911
+- Plant Emergency Coordinator: Ext. 2222
+- Safety Manager: Ext. 2233
+- Maintenance Supervisor: Ext. 2244
+- Medical Officer: Ext. 2255
+
+Fire Emergency Procedures
+-------------------------
+
+Upon Discovery of Fire:
+1. Sound fire alarm immediately
+2. Attempt to extinguish ONLY if fire is small and you are trained
+3. Evacuate area if fire cannot be controlled
+4. Close doors behind you to contain fire spread
+5. Report to designated assembly area
+6. Account for all personnel in your area
+
+Fire Extinguisher Use (PASS Method):
+- Pull the pin
+- Aim at base of fire
+- Squeeze the handle
+- Sweep from side to side
+
+Evacuation Procedures
+--------------------
+
+Emergency Signal:
+- Continuous horn blast (fire/general emergency)
+- Intermittent horn blast (shelter in place)
+- All clear signal: steady tone for 30 seconds
+
+Evacuation Steps:
+1. Stop work immediately and secure equipment safely
+2. Assist injured or disabled personnel
+3. Use nearest safe exit route (not elevators)
+4. Proceed to designated assembly area
+5. Report to area supervisor for headcount
+6. Remain at assembly area until all-clear is given
+
+Medical Emergency Response
+-------------------------
+
+For Serious Injuries:
+1. Do not move injured person unless in immediate danger
+2. Call 911 immediately
+3. Notify plant medical officer
+4. Provide first aid only if trained
+5. Stay with injured person until help arrives
+6. Secure accident scene for investigation
+
+For Minor Injuries:
+1. Report to first aid station
+2. Document injury on incident report form
+3. Notify supervisor within 2 hours
+4. Seek medical attention if symptoms worsen
+
+CHEMICAL SAFETY
+===============
+
+Hazardous Material Handling
+---------------------------
+
+Before Using Any Chemical:
+1. Read and understand Safety Data Sheet (SDS)
+2. Verify proper PPE requirements
+3. Ensure adequate ventilation
+4. Have spill cleanup materials available
+5. Know emergency response procedures
+
+Chemical Storage Requirements:
+- Store chemicals in original containers with labels
+- Segregate incompatible materials
+- Maintain temperature and humidity requirements
+- Use secondary containment for liquid chemicals
+- Keep storage areas clean and organized
+
+Spill Response Procedures
+------------------------
+
+Small Spills (less than 1 gallon):
+1. Evacuate immediate area of non-essential personnel
+2. Wear appropriate PPE before cleanup
+3. Use absorbent materials from spill kit
+4. Place contaminated materials in proper disposal container
+5. Ventilate area until vapors dissipate
+6. Report spill to supervisor
+
+Large Spills (greater than 1 gallon):
+1. Evacuate area immediately
+2. Alert emergency response team
+3. Prevent spread to drains or soil
+4. Do not attempt cleanup without proper training
+5. Ventilate area if safe to do so
+
+ELECTRICAL SAFETY
+=================
+
+Electrical Work Requirements
+---------------------------
+
+Only Qualified Electricians May:
+- Work on energized circuits above 50 volts
+- Install or modify electrical systems
+- Perform electrical troubleshooting
+- Reset electrical protective devices
+
+General Electrical Safety:
+- Inspect electrical tools before each use
+- Use GFCI protection in wet locations
+- Report damaged electrical equipment immediately
+- Never use electrical equipment with wet hands
+- Maintain proper clearances around electrical panels
+
+Arc Flash Protection
+-------------------
+
+Arc Flash Boundaries:
+- Limited approach boundary: 3.5 feet
+- Restricted approach boundary: 1 foot
+- Prohibited approach boundary: Contact only by qualified persons
+
+Required PPE for Electrical Work:
+- Arc-rated clothing (minimum 8 cal/cm²)
+- Arc-rated face shield
+- Insulated gloves rated for voltage
+- Insulated tools
+- Safety glasses underneath face shield
+
+CONFINED SPACE SAFETY
+=====================
+
+Confined Space Identification
+----------------------------
+
+A confined space has:
+- Limited openings for entry and exit
+- Unfavorable natural ventilation
+- Not designed for continuous occupancy
+
+Examples include:
+- Storage tanks and vessels
+- Sewers and manholes
+- Pits and sumps
+- Silos and hoppers
+
+Entry Procedures
+---------------
+
+Before Entry:
+1. Obtain confined space entry permit
+2. Test atmosphere for oxygen, flammable gases, and toxins
+3. Ventilate space with mechanical ventilation
+4. Station attendant outside space
+5. Establish communication procedures
+6. Have rescue equipment readily available
+
+During Entry:
+- Maintain continuous atmospheric monitoring
+- Keep communication with attendant
+- Exit immediately if conditions change
+- Never enter to rescue without proper equipment
+
+INCIDENT REPORTING
+==================
+
+Reportable Incidents
+-------------------
+
+All incidents must be reported, including:
+- Personal injuries requiring medical attention
+- Near-miss events that could have caused injury
+- Property damage exceeding $500
+- Environmental releases or spills
+- Security breaches or threats
+
+Reporting Timeline:
+- Immediate notification for serious injuries
+- Within 2 hours for all other incidents
+- Written report within 24 hours
+
+Investigation Process
+--------------------
+
+Incident Investigation Steps:
+1. Secure accident scene
+2. Interview witnesses separately
+3. Document physical evidence
+4. Identify root causes
+5. Develop corrective actions
+6. Follow up on implementation
+
+Investigation focuses on:
+- What happened (facts)
+- Why it happened (causes)
+- How to prevent recurrence (corrective actions)
+
+TRAINING REQUIREMENTS
+====================
+
+Mandatory Training for All Employees
+------------------------------------
+
+Initial Training (within 30 days):
+- General safety orientation
+- Site-specific hazard recognition
+- Emergency response procedures
+- PPE selection and use
+
+Annual Refresher Training:
+- Safety policy updates
+- Incident lessons learned
+- Emergency drill participation
+- Job-specific safety requirements
+
+Specialized Training Requirements
+--------------------------------
+
+Equipment Operators:
+- Equipment-specific safety training
+- LOTO procedures
+- Pre-operation inspection procedures
+- Emergency shutdown procedures
+
+Maintenance Personnel:
+- LOTO authorized person training
+- Confined space entry training
+- Electrical safety training
+- Fall protection training
+
+Supervisors:
+- Incident investigation training
+- Safety leadership development
+- Regulatory compliance training
+- Emergency response coordination
+
+COMPLIANCE AND ENFORCEMENT
+==========================
+
+Safety Performance Standards
+----------------------------
+
+Zero Tolerance for:
+- Willful violation of safety procedures
+- Working under the influence of drugs or alcohol
+- Removal or bypassing of safety devices
+- Failure to use required PPE
+
+Progressive Discipline:
+- First violation: Verbal warning and retraining
+- Second violation: Written warning
+- Third violation: Suspension pending investigation
+- Serious violations: Immediate suspension or termination
+
+Safety Incentives
+----------------
+
+Recognition Programs:
+- Safe behavior observations
+- Safety improvement suggestions
+- Accident-free performance
+- Safety leadership demonstration
+
+Monthly Safety Awards:
+- Individual safety recognition
+- Team safety achievements
+- Department safety milestones
+- Continuous improvement initiatives
+
+REGULATORY COMPLIANCE
+=====================
+
+Applicable Standards
+-------------------
+
+OSHA Regulations:
+- 29 CFR 1910.147 (Lockout/Tagout)
+- 29 CFR 1910.146 (Confined Spaces)
+- 29 CFR 1910.132-138 (PPE)
+- 29 CFR 1910.212 (Machine Guarding)
+
+Industry Standards:
+- ANSI/ASSE Z244.1 (Lockout/Tagout)
+- NFPA 70E (Electrical Safety)
+- ANSI Z87.1 (Eye and Face Protection)
+- ANSI/ISEA 107 (High-Visibility Clothing)
+
+Documentation Requirements
+-------------------------
+
+Required Records:
+- Training documentation
+- Equipment inspection records
+- Incident investigation reports
+- Safety meeting minutes
+- Medical surveillance records
+
+Record Retention:
+- Training records: 3 years
+- Incident reports: 5 years
+- Medical records: 30 years
+- Equipment inspections: Equipment lifetime
+
+CONTINUOUS IMPROVEMENT
+=====================
+
+Safety Management System
+------------------------
+
+Plan-Do-Check-Act Cycle:
+- Plan: Identify hazards and develop controls
+- Do: Implement safety procedures and training
+- Check: Monitor performance and audit compliance
+- Act: Correct deficiencies and improve processes
+
+Safety Metrics
+-------------
+
+Leading Indicators:
+- Safety training completion rates
+- Safety observation frequency
+- Near-miss reporting rates
+- Safety audit scores
+
+Lagging Indicators:
+- Injury and illness rates
+- Workers' compensation costs
+- Lost time incidents
+- Regulatory violations
+
+CONTACT INFORMATION
+==================
+
+Safety Department:
+Phone: Ext. 2200
+Email: safety@company.com
+
+After-Hours Emergency:
+Phone: (555) 123-4567
+
+Regulatory Reporting:
+OSHA: 1-800-321-OSHA
+EPA: 1-800-424-8802
+
+This document is reviewed annually and updated as necessary.
+All personnel are responsible for understanding and following these procedures.
+
+Document Version History:
+v2.1 - March 2024: Added arc flash protection requirements
+v2.0 - January 2024: Updated LOTO procedures per OSHA guidance
+v1.9 - October 2023: Enhanced PPE requirements
